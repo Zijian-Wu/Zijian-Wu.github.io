@@ -1,1 +1,5 @@
-Hello World
+- 👋 Hi, I’m @Zijian-Wu
+- 👀 I’m interested in 3D-Vision
+- 🌱 I’m currently learning CG, ML, DL
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me zijian_wu@smail.nju.edu.cn
