@@ -1,17 +1,18 @@
 ---
-title: "Post Title"
-date: 2024-05-06
+title: "My 1st post"
+date: 2020-09-15T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
 author: "Me"
+# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Post Description."
-# canonicalURL: "https://canonical.url/to/page"
+description: "Desc Text."
+canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 hideSummary: false
 searchHidden: true
@@ -23,9 +24,9 @@ cover:
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
+    hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/Zijian-Wu/Zijian-Wu.github.io/content"
+    URL: "https://github.com/<path_to_repo>/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
