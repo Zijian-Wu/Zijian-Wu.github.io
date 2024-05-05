@@ -22,12 +22,14 @@ cover:
     image: "images/1.jpg"
     caption: "jelee"
     relative: false
-    hidden: false
+    hidden: true
 editPost:
     URL: "https://github.com/Zijian-Wu/Zijian-Wu.github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+![](images/1.jpg)
 
 ## Prerequisites
 

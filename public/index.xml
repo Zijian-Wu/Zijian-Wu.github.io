@@ -14,7 +14,8 @@
       
       <guid>https://zijian-wu.github.io/posts/1_blog/</guid>
       <description>This post records how to create your own site using Hugo and PaperModx.</description>
-      <content:encoded><![CDATA[<h2 id="prerequisites">Prerequisites</h2>
+      <content:encoded><![CDATA[<p></p>
+<h2 id="prerequisites">Prerequisites</h2>
 <ul>
 <li>
 <p>A <a href="https://github.com/">Github</a> account</p>
