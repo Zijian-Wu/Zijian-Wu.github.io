@@ -69,7 +69,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "\U0001F44B Welcome to Zijian's Log"
-        Content: Hi, this is Zijian. I'm interested in 3D-Vision, especially Digital Human. I will share some insights and experiences about this field on this page, as well as some thoughts on Games and Anime.
+        Content: Hi, there.
 
     socialIcons:
         - name: twitter
