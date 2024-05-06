@@ -4,7 +4,13 @@
     <title>Categories on Zijian&#39;s Site</title>
     <link>https://zijian-wu.github.io/categories/</link>
     <description>Recent content in Categories on Zijian&#39;s Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://zijian-wu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <title>Zijian&#39;s Site</title>
+      <url>https://zijian-wu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://zijian-wu.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.125.6</generator>
+    <language>en</language>
+    <atom:link href="https://zijian-wu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
