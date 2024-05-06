@@ -1,5 +1,5 @@
 ---
-title: "Post Title"
+title: "Mount Disk(>2T)"
 date: 2024-05-05
 # weight: 1
 # aliases: ["/first"]
@@ -34,3 +34,44 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
+## Check disk name:
+
+try these commands in shell:
+
+`df -h`
+
+`lsblk`
+
+`sudo fdisk -l`
+
+find the disk device name like: `/dev/sdc: 3.64 TiB` for 4T Disk
+
+## Partition the Hard Drive
+
+for disk capacity > 2T: we use `parted` to create partitions on the new hard drive 
+
+```bash
+sudo parted /dev/sdX
+(parted) mklabel gpt  # Choose the partition table type (e.g., GPT)
+(parted) mkpart primary 0% -1  # Create a primary partition using all available space
+(parted) quit
+```
+
+Replace `/dev/sdX` with your new hard drive's name(e.g., `/dev/sdc`)
+
+## Format the Partition
+
+```bash
+sudo mkfs --type ext4 /dev/sdXY
+```
+
+Replace `/dev/sdXY`with the identifier of your partition(e.g., `/dev/sdc1`)
+
+## Mount the Partition
+
+```bash
+sudo mkdir /mnt/mydrive
+sudo mount /dev/sdXY /mnt/mydrive
+```
+
+or find `Disks` app in your PC, and mount the partition with GUI in `Disks`
