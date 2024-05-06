@@ -1,21 +1,18 @@
 ---
-title: "Mount Disk(>2T)"
+title: "Mount New Hard Drive(>2T)"
+description: "Some often used Command Lines' Record."
 date: 2024-05-05
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
+tags: ["tools"]
 author: "Me"
 showToc: true
 TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-description: "Post Description."
-# canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true
 disableShare: false
 hideSummary: false
-searchHidden: true
+searchHidden: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -23,18 +20,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: false # only hide on current single page
-editPost:
-    URL: "https://github.com/Zijian-Wu/Zijian-Wu.github.io/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    image: "2.jpg"
+    caption: "mizore"
 ---
 
-## Check disk name:
+## 1. Check disk name:
 
 try these commands in shell:
 
@@ -46,7 +36,7 @@ try these commands in shell:
 
 find the disk device name like: `/dev/sdc: 3.64 TiB` for 4T Disk
 
-## Partition the Hard Drive
+## 2. Partition the Hard Drive
 
 for disk capacity > 2T: we use `parted` to create partitions on the new hard drive 
 
@@ -59,7 +49,7 @@ sudo parted /dev/sdX
 
 Replace `/dev/sdX` with your new hard drive's name(e.g., `/dev/sdc`)
 
-## Format the Partition
+## 3. Format the Partition
 
 ```bash
 sudo mkfs --type ext4 /dev/sdXY
@@ -67,7 +57,7 @@ sudo mkfs --type ext4 /dev/sdXY
 
 Replace `/dev/sdXY`with the identifier of your partition(e.g., `/dev/sdc1`)
 
-## Mount the Partition
+## 4. Mount the Partition
 
 ```bash
 sudo mkdir /mnt/mydrive
@@ -75,3 +65,11 @@ sudo mount /dev/sdXY /mnt/mydrive
 ```
 
 or find `Disks` app in your PC, and mount the partition with GUI in `Disks`
+
+## 5. Umount the Partition
+
+```bash
+sudo umount /dev/sdXY
+```
+
+### End

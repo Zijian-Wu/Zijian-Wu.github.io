@@ -1,5 +1,5 @@
 baseURL: "https://zijian-wu.github.io/"
-title: Zijian's Site
+title: Sayaka's Site
 paginate: 5
 theme: PaperMod
 
@@ -28,7 +28,7 @@ params:
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -37,8 +37,8 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -50,7 +50,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Zijian's Log"
+    text: "Sayaka's Log"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -71,16 +71,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome to Zijian's Log"
+    Title: "Welcome to Sayaka's Log"
     Content: Hi, there.
 
-  socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+  # socialIcons:
+  #   - name: x
+  #     url: "https://x.com/"
+  #   - name: stackoverflow
+  #     url: "https://stackoverflow.com"
+  #   - name: github
+  #     url: "https://github.com/"
 
   analytics:
     google:
@@ -95,10 +95,10 @@ params:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
-  editPost:
-    URL: "https://github.com/Zijian-Wu/Zijian-Wu.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+#   editPost:
+#     URL: "https://github.com/Zijian-Wu/Zijian-Wu.github.io/tree/main/content"
+#     Text: "Suggest Changes" # edit text
+#     appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
