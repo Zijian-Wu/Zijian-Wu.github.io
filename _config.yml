@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dark"
-title                    : "Zijian Wu (巫子健)'s Homepage"
+title                    : "Zijian Wu's Homepage"
 title_separator          : "-"
 name                     : &name "Zijian Wu"
 description              : &description "personal description"
