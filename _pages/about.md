@@ -15,7 +15,7 @@ I'm a first-year master's student in NJU-3DV, supervised by [Prof. Hao Zhu](http
 Publications
 ======
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/pubs_surfavatar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pubs_surfavatar.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
 
@@ -28,7 +28,7 @@ SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/pubs_fate.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pubs_fate.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
 
