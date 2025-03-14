@@ -7,8 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-
+About me
+======
 I'm a first-year master's student in NJU-3DV, supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). My research interests include avatar modeling, generative model, neural rendering, 3D computer vision. I obtained my Bachelor’s degree in Electronic Information Science and Technology from [Nanjing University](https://www.nju.edu.cn/en/).
+
+
+Publications
+======
+
+![Thumbnail](../images/pubs_surfavatar.png)
+
+### SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
+
+
+| <img src="../images/pubs_fate.jpg" width="200px" alt="Thumbnail" /> | **FATE: Full-head Gaussian Avatar with Textual Editing from Monocular Video** <br/>
+**Authors**: Jiawei Zhang, Zijian Wu, Zhiyang Liang, Yicheng Gong, Dongfang Hu, Yao Yao, Xun Cao, Hao Zhu <br/>
+[paper](#) | [code](#) | [homepage](#) |
+| --- | --- |
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
