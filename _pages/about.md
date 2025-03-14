@@ -15,15 +15,28 @@ I'm a first-year master's student in NJU-3DV, supervised by [Prof. Hao Zhu](http
 Publications
 ======
 
-![Thumbnail](../images/pubs_surfavatar.png)
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/pubs_surfavatar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
 
-### SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians
+**Zijian Wu**, Jiawei Zhang, Yanwen Wang, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu
+
+<!-- [[paper]](https://arxiv.org/abs/2411.15604)[[code]](https://github.com/zjwfufu/FateAvatar)[[homepage]](https://zjwfufu.github.io/FATE-page/) -->
 
 
-| <img src="../images/pubs_fate.jpg" width="200px" alt="Thumbnail" /> | **FATE: Full-head Gaussian Avatar with Textual Editing from Monocular Video** <br/>
-**Authors**: Jiawei Zhang, Zijian Wu, Zhiyang Liang, Yicheng Gong, Dongfang Hu, Yao Yao, Xun Cao, Hao Zhu <br/>
-[paper](#) | [code](#) | [homepage](#) |
-| --- | --- |
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/pubs_fate.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
+
+Jiawei Zhang, **Zijian Wu**, Zhiyang Liang, Yicheng Gong, Dongfang Hu, Yao Yao, Xun Cao, Hao Zhu
+
+[[paper]](https://arxiv.org/abs/2411.15604)[[code]](https://github.com/zjwfufu/FateAvatar)[[homepage]](https://zjwfufu.github.io/FATE-page/)
+
+</div>
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
