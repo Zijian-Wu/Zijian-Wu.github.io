@@ -20,6 +20,7 @@ Publications
   <div>
     <strong>SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians</strong><br/>
     <strong>Zijian Wu</strong>, Jiawei Zhang, Yanwen Wang, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu<br/>
+    <strong>In submission to ICCV 2025</strong><br/>
     <a href="https://zijian-wu.github.io/files/SurfAvatar.pdf">[paper]</a>
     <!-- <a href="https://github.com/zjwfufu/FateAvatar">[code]</a>
     <a href="https://zjwfufu.github.io/FATE-page/">[homepage]</a> -->
@@ -31,6 +32,7 @@ Publications
   <div>
     <strong>FATE: Full-head Gaussian Avatar with Textual Editing from Monocular Video</strong><br/>
     Jiawei Zhang, <strong>Zijian Wu</strong>, Zhiyang Liang, Yicheng Gong, Dongfang Hu, Yao Yao, Xun Cao, Hao Zhu<br/>
+    <strong>CVPR 2025</strong><br/>
     <a href="https://arxiv.org/abs/2411.15604">[paper]</a>
     <a href="https://github.com/zjwfufu/FateAvatar">[code]</a>
     <a href="https://zjwfufu.github.io/FATE-page/">[homepage]</a>
