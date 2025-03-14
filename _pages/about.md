@@ -16,7 +16,7 @@ Publications
 ======
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="../images/pubs_surfavatar.jpg" style="width: 250px; margin-right: 16px;" alt="Pub1" />
+  <img src="../images/pubs_surfavatar.jpg" style="width: 275px; margin-right: 16px;" alt="Pub1" />
   <div>
     <strong>SurfAvatar: Versatile Human Avatar with Meshified Surfel Gaussians</strong><br/>
     <strong>Zijian Wu</strong>, Jiawei Zhang, Yanwen Wang, Yao Yao, Siyu Zhu, Xun Cao, Hao Zhu<br/>
@@ -28,7 +28,7 @@ Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="../images/pubs_fate.jpg" style="width: 250px; margin-right: 16px;" alt="Pub2" />
+  <img src="../images/pubs_fate.jpg" style="width: 275px; margin-right: 16px;" alt="Pub2" />
   <div>
     <strong>FATE: Full-head Gaussian Avatar with Textual Editing from Monocular Video</strong><br/>
     Jiawei Zhang, <strong>Zijian Wu</strong>, Zhiyang Liang, Yicheng Gong, Dongfang Hu, Yao Yao, Xun Cao, Hao Zhu<br/>
