@@ -7,7 +7,7 @@
 
 # Site Settings
 # site_theme               : "dark"
-title                    : "Zijian Wu's Homepage"
+title                    : "Zijian Wu - Homepage"
 description              : &description "  "
 repository               : "Zijian-Wu/Zijian-Wu.github.io"
 url                      : https://zijian-wu.github.io/
@@ -25,8 +25,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zijian Wu (巫子健)"
   avatar           : "images/zijianwu.jpg"
-  bio              : " "
-  location         : # "Nanjing, China"
+  bio              : "Master's student @ NJU-3DV"
+  location         : "Nanjing, China"
   employer         : "Nanjing University"
   pubmed           : 
   googlescholar    : 
