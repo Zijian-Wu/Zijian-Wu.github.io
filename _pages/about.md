@@ -17,7 +17,7 @@ redirect_from:
 
 About me
 ======
-I'm a first-year master's student in NJU-3DV, supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). My research interests include avatar modeling, generative model, neural rendering, 3D computer vision. I obtained my Bachelor’s degree in Electronic Information Science and Technology from [Nanjing University](https://www.nju.edu.cn/en/).
+I'm now a first-year master's student in [NJU-3DV Lab](http://zhuhao.cc/home/), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home/) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). My research interests include avatar modeling, generative model, neural rendering, 3D computer vision. I obtained my Bachelor’s degree in Electronic Information Science and Technology from [Nanjing University](https://www.nju.edu.cn/en/) in 2024.
 
 <!-- <span class='anchor' id='about-me'></span>
 
@@ -29,6 +29,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+Educations
+======
+
+- **2024.09 - Present**: Nanjing University, Master's student in NJU-3DV Lab
+- **2020.09 - 2024.07**: Nanjing University, Bachelor of Science in Electronic Information Science and Technology
+
 
 Publications
 ======
@@ -61,14 +68,10 @@ CVPR 2025
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- **2021** Nanjing University 01 Electronic Scholarship (Top 10%)
-- **2022** People's Scholarship
-- **2023** People's Scholarship -->
-
-<!-- # 📖 Educations
-- **2024.09 - Present** 
-- **2020.09 - 2024.06**  -->
+Honors and Awards
+======
+- Nanjing University 01 Electronic Scholarship (Top 10%), **2021**
+- People's Scholarship, **2022 & 2023**
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
