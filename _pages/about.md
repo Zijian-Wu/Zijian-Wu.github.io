@@ -72,6 +72,7 @@ Honors and Awards
 ======
 - Nanjing University 01 Electronic Scholarship (Top 10%), **2021**
 - People's Scholarship, **2022 & 2023**
+- Graduate Student Scholarship (First Class), **2024**
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
