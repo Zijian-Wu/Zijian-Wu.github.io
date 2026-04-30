@@ -23,8 +23,26 @@
 
 <body>
   <main id="layout-content">
-    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" aria-pressed="false">
-      <span class="theme-toggle-text">Dark</span>
+    <button class="theme-toggle" type="button" aria-label="Switch to dark mode" aria-pressed="false">
+      <span class="theme-toggle-thumb" aria-hidden="true"></span>
+      <span class="theme-toggle-option" aria-hidden="true">
+        <svg class="theme-icon theme-icon-sun" viewBox="0 0 24 24">
+          <circle cx="12" cy="12" r="4"></circle>
+          <path d="M12 2.5V5"></path>
+          <path d="M12 19v2.5"></path>
+          <path d="M4.6 4.6l1.8 1.8"></path>
+          <path d="M17.6 17.6l1.8 1.8"></path>
+          <path d="M2.5 12H5"></path>
+          <path d="M19 12h2.5"></path>
+          <path d="M4.6 19.4l1.8-1.8"></path>
+          <path d="M17.6 6.4l1.8-1.8"></path>
+        </svg>
+      </span>
+      <span class="theme-toggle-option" aria-hidden="true">
+        <svg class="theme-icon theme-icon-moon" viewBox="0 0 24 24">
+          <path d="M20.3 14.7A7.9 7.9 0 0 1 9.3 3.7 8.9 8.9 0 1 0 20.3 14.7Z"></path>
+        </svg>
+      </span>
     </button>
     <header class="profile">
       <div class="profile-info">
@@ -201,7 +219,6 @@
     (function () {
       var root = document.documentElement;
       var button = document.querySelector(".theme-toggle");
-      var label = document.querySelector(".theme-toggle-text");
 
       function setTheme(theme) {
         var isDark = theme === "dark";
@@ -209,9 +226,6 @@
         if (button) {
           button.setAttribute("aria-pressed", String(isDark));
           button.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode");
-        }
-        if (label) {
-          label.textContent = isDark ? "Light" : "Dark";
         }
       }
 
