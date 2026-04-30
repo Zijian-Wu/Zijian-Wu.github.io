@@ -173,8 +173,8 @@ html[data-theme="dark"] {
     inset 0 1px 0 rgba(250, 249, 245, 0.22),
     inset 0 -1px 0 rgba(250, 249, 245, 0.08);
   --layout-glow: inset 0 0 54px rgba(250, 249, 245, 0.08);
-  --card-glass: var(--glass);
-  --card-glass-hover: var(--glass-hover);
+  --card-glass: rgba(250, 249, 245, 0.14);
+  --card-glass-hover: rgba(250, 249, 245, 0.23);
   --card-highlight: linear-gradient(180deg, rgba(250, 249, 245, 0.095) 0%, transparent 56%);
   --shine: linear-gradient(90deg, transparent, rgba(250, 249, 245, 0.2), transparent);
   --hover-line: rgba(217, 119, 87, 0.65);
@@ -469,6 +469,10 @@ html[data-theme="dark"] .theme-toggle-thumb {
   stroke-linejoin: round;
 }
 
+.theme-icon-moon {
+  transform: translate(2.0px, -0.6px);
+}
+
 .theme-toggle-option:first-of-type {
   color: var(--ink);
 }
@@ -732,7 +736,7 @@ li p {
   .profile {
     grid-template-columns: 1fr;
     gap: 18px;
-    padding-top: 18px;
+    padding-top: 28px;
   }
 
   .theme-toggle {
